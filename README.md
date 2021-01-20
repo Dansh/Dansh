@@ -28,6 +28,9 @@ I'm Dan From Israel, I started learn programming in March during the Corona viru
 
 <img align="left" alt="Yarin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dan0606&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=dark" />
 
-[pygameProject]: https://github.com/Dan0606/Snake-It
+[Snake-It]: https://github.com/Dan0606/Snake-It
+[file-explorer]: https://github.com/Dansh/file-explorer
+
+
 
 
