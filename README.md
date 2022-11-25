@@ -2,15 +2,6 @@
 
 I'm Dan From Israel, I started learn programming in March during the Corona virus at age 14. 
 
-### What Can I Do?
-- I usually code with Python 🐍
-- My Python skills are - sockets, pygame, mongoDB, pyqt5, and tkinter 🤘
-- 🎮 some of my projects are: [nice sockets file explorer][file-explorer], [cool programmers game][Snake-It],
-- ✊🏽 I'm not a HTML and CSS master but I know some, I know C# and Java basics.
-- 👨🏾‍💻 I'm learning CCNA, Linux, Cyber Security and cloud computing.
-- 🥅 2021 Goals: Learn new programming skills such as new languages, frameworks and more.
-- ⚡ Fun fact: Programming satisfied me :)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
