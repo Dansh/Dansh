@@ -1,14 +1,15 @@
 ### Hi @everyone 💻 
 
-I'm Dan From Israel, I started learn programming in March during the Corona virus at age 14 and since now I'm 17, I think it has been 3 years?
+I'm Dan From Israel, I started learn programming in March during the Corona virus at age 14 and since now I'm 18, I think it has been 4 years?
 
 ### Languages and Tools:
 
-Python, C#, assembly x86, HTML, CSS, Networking.
+Python, C#, assembly x86, HTML, CSS, Networking, React, Flask.
 
-### Currently Studing:
+### Full-Stack -> Full Time :)
 
-JS, React
+
+
 
 
 
