@@ -18,6 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dansh&show_icons=true&locale=en&layout=compact" alt="dansh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dansh&show_icons=true&locale=en" alt="dansh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dansh&" alt="dansh" /></p>
